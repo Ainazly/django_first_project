@@ -1,2 +1,9 @@
 .idea/
-venv
+venv/
+db.sqlite3
+main/__pycache__/
+posts/__pycache__/
+posts/migrations/
+accounts/migrations/
+.env
+
